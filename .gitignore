@@ -1,0 +1,9 @@
+/.idea
+/target
+/out
+/project/target
+/project/project
+*.log
+*.jar
+*.class
+*.csv
